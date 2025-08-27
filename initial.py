@@ -1,0 +1,1 @@
+print("krishnaya vasudevaya haraye paramathamane")
